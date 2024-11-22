@@ -10,4 +10,4 @@ https://www.nature.com/articles/s41586-021-03775-x
 
 https://satijalab.org/seurat/articles/integration_introduction
 
-© 2024 IBMS Academia Sinica. All rights reserved.
+Copyrights © 2024 IBMS Academia Sinica. All rights reserved.
